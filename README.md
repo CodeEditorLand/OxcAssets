@@ -1,7 +1,8 @@
 # Branding Assets for [oxc](https://github.com/oxc-project/oxc)
 
-* Designed by [@tongtong-lu](https://github.com/tongtong-lu) and [@guan-wy](https://github.com/guan-wy)
-* Font: https://fonts.google.com/specimen/IBM+Plex+Mono
+-   Designed by [@tongtong-lu](https://github.com/tongtong-lu) and
+    [@guan-wy](https://github.com/guan-wy)
+-   Font: https://fonts.google.com/specimen/IBM+Plex+Mono
 
 ## Icons
 
